@@ -1,0 +1,2 @@
+.app{align-items:center;display:flex;flex-direction:column;height:100vh;justify-content:center;margin:0;padding:0}.gameboard{flex-wrap:wrap;height:300px;width:300px}.gameboard,.square{border:1px solid #000;display:flex}.square{align-items:center;box-sizing:border-box;cursor:pointer;font-size:20px;height:100px;justify-content:center;width:100px}.status{display:flex;font-size:20px;justify-content:space-between;margin-bottom:20px}.resetButton{padding:5px 10px}
+/*# sourceMappingURL=main.49bd7265.css.map*/
